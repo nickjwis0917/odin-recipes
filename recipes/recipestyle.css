@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 36px;
+}
+
+#spaghetti {
+    display: flex;
+    height: 640px;
+    width: auto;
+    margin: auto;
+}
+
+div {
+    margin: auto;
+    margin-top: 20px;
+    width: 1080px;
+    padding: 8px 30px;
+    line-height: 30px;
+}
+
+.recipe {
+    border: solid, 5px, pink;
+}
+
+h3 {
+    margin: 10px;
+    font-size: 24px;
+}
